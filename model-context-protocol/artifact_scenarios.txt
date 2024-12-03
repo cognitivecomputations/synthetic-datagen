@@ -1,0 +1,80 @@
+Generate a Python script to calculate the Fibonacci sequence.
+Create an HTML template for a simple personal website.
+Provide a Markdown file with a pre-formatted project README.
+Generate a shell script to automate software installation.
+Write a SQL script to create and populate a sample database.
+Provide a JavaScript function to validate email addresses.
+Create a YAML configuration file for a CI/CD pipeline.
+Generate a JSON file representing a sample dataset.
+Provide a CSS file for styling a minimal webpage.
+Create a Bash script to back up a directory to an external drive.
+Write a Python script to scrape data from a webpage.
+Generate a LaTeX document template for a research paper.
+Provide a Dockerfile for building a lightweight web server container.
+Create a configuration file for setting up an Nginx reverse proxy.
+Write a Java class to manage user authentication in an application.
+Generate a PHP script to connect to and query a MySQL database.
+Provide an XML file for defining a sitemap for a website.
+Write a Go program to generate random passwords.
+Generate a Perl script to parse and process log files.
+Create a Swift code snippet for handling iOS notifications.
+Provide a PDF document with a detailed project proposal.
+Generate a Word document with a cover letter for a job application.
+Create an essay discussing the ethical implications of AI in healthcare.
+Provide an article analyzing the economic impact of climate change.
+Write an email template for requesting a business partnership.
+Generate a rebuttal to a critique of renewable energy policies.
+Provide a financial report summarizing quarterly earnings.
+Create a spreadsheet for tracking monthly household expenses.
+Generate a PowerPoint presentation on sustainable farming techniques.
+Provide a whitepaper outlining a new blockchain technology.
+Create a press release announcing a product launch.
+Generate a research paper on quantum computing advancements.
+Provide a spreadsheet template for project management tasks.
+Write a business plan for a startup in the food delivery industry.
+Generate a travel itinerary for a week-long vacation in Europe.
+Provide a report on the impact of social media on mental health.
+Create a detailed FAQ document for a new software application.
+Generate a marketing brochure for a fitness center.
+Write a customer satisfaction survey template.
+Provide a memo outlining updates to company policies.
+Creating a Python script for a specific data analysis task
+Designing a React component for a web application dashboard
+Writing a comprehensive markdown document for project documentation
+Developing a complex HTML/CSS layout for a website prototype
+Generating a Mermaid diagram to illustrate a business process workflow
+Crafting a detailed SVG infographic about a specific topic
+Building a JavaScript function library for utility methods
+Composing a structured markdown resume or CV template
+Creating a React component for a data visualization tool
+Developing a shell script for system automation
+Writing a comprehensive tutorial or guide in markdown format
+Designing an interactive HTML/CSS/JavaScript game prototype
+Generating a complex SQL database schema
+Creating a Mermaid sequence diagram for software architecture
+Developing a TypeScript interface or type definition for a complex data structure
+Writing a comprehensive README.md file for a GitHub repository
+Creating an SVG logo or simple graphic design
+Developing a React component with multiple interactive elements
+Generating a detailed project proposal in markdown
+Creating a complex data transformation script in a specific programming language
+Creating a data visualization script for research findings
+Generating a markdown template for a research paper
+Developing a Python script for statistical analysis
+Designing a React component for an interactive research dashboard
+Generating a Mermaid diagram to illustrate a complex research workflow
+Creating an SVG illustration of a molecular structure
+Drafting a grant proposal document
+Developing a simulation script for computational modeling
+Generating a LaTeX template for a dissertation
+Creating a data preprocessing script for large datasets
+Designing a machine learning model architecture
+Generating a code snippet for a novel algorithm implementation
+Creating a documentation template for research methodology
+Developing a web scraping script for literature review
+Designing an interactive Jupyter notebook template
+Generating a configuration file for research software
+Creating a data cleaning and normalization script
+Developing a script for automated literature citation management
+Designing a computational experiment workflow diagram
+Generating a template for systematic literature review documentation

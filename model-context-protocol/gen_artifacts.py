@@ -413,8 +413,8 @@ completion = generate_openai_response(
         },
         {
             "role": "user", 
-            "content": "Please solve A* in COBOL, using an artifact."
+            "content": "Please solve A* in rust, using an artifact."
         }
     ]
 )
-print(completion)
+print(completion.choices[0].message.content)
